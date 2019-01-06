@@ -6,7 +6,7 @@ def assign_variable(value)
     "#{value}"
 end
 
-def argue(argument)
+def argue
   argue
 end
 
@@ -24,6 +24,7 @@ def last_evaluated_value
 
 end
 
-def pizza_party(pizza="cheese")
+def pizza_party
+  "cheese"
 
 end
